@@ -1,0 +1,54 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.heading {
+    background-color: crimson;
+    /* border: 20px solid green; */
+    border-radius: 20px;
+    /* padding: 20px;
+    margin: 20px; */
+}
+
+.red {
+    color: red;
+    hyphens: manual;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
+.button {
+    padding: 10px 50px 10px 5px;
+    background-color: green;
+    border-radius: 10px;
+    border: 0px;
+    text-align: left;
+}
+
+.content {
+    display: inline-block;
+    width: 200px;
+    border: 1px dotted white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.content h3 {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+div ol :last-child {
+    color: orange;
+}
